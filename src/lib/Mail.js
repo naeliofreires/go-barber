@@ -22,7 +22,7 @@ class Mail {
     const viewPath = resolve(__dirname, '..', 'app', 'views', 'emails');
 
     /**
-     * Configurand a Engine de template.
+     * Configurando a Engine de template.
      * O compile, é como ele compila/interpreta nossos templates.
      */
     this.transporter.use(

@@ -10,4 +10,4 @@
 - aviso por email
 - monitoramento de erros via sentry
 - validacao dos dados
-- fila de processamento com Kue
+- fila de processamento com Bee Queue
